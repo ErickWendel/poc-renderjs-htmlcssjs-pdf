@@ -2,5 +2,5 @@
 Renderizar HTML CSS e Javascript para PDF
 
 ## Run
-  > yarn install
+  > yarn install <br>
   > node index.js
